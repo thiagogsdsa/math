@@ -2,6 +2,9 @@
 
 **“Where chaos escapes, beauty emerges.”**
 
+![Buddhabrot Fractal](output_1.gif)
+
+
 ### Mathematical Definition
 
 The **Buddhabrot** is a probabilistic visualization derived from the **Mandelbrot set**. It reveals the complex dynamics of iterated functions in the complex plane.
